@@ -17,6 +17,7 @@ public class Exception1 {
       
       System.out.println(a*b);
       System.out.println("Thank you");
+      System.out.println();
 	}
 
 }
